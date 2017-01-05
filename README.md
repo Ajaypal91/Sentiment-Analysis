@@ -11,5 +11,7 @@ The problem was solved using pyspark on databricks using different supervised le
 
 4) Logistic Regression
 
+Data was initially processed using dataprocessing.py file and then different algorithms and their results were recorded.
+
 Logistic Regression was used ultimately for the submission in kaggle and it gave 84% submission score.
 
